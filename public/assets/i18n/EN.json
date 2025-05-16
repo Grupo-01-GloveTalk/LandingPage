@@ -7,7 +7,7 @@
     "signUp": "Sign up",
 
     "slogan": "Communicate with signs, with ease",
-    "description": "With SmartSign, access a variety of tools that allow you to easily translate sign language",
+    "description": "With GloveTalk, access a variety of tools that allow you to easily translate sign language",
 
     "learnMoreTitle": "Translate what you want, how you want it",
     "learnMoreDesc": "You will be able to translate both signs and verbal language, depending on your usage.",
@@ -17,10 +17,10 @@
     "imageGallery3": "Learn more about sign language",
 
     "servicesCat": "Translate and learn",
-    "availableServices": "These are the services that you can find on SmartSign\n\n",
+    "availableServices": "These are the services that you can find on GloveTalk\n\n",
 
     "testimonialsTitle": "Our Testimonials",
-    "testimonialSubtitle": "Read what our customers say about SmartSign",
+    "testimonialSubtitle": "Read what our customers say about GloveTalk",
 
     "plansTitle": "We have the following plans for you",
 
@@ -29,7 +29,7 @@
     "contactTitle": "Contact Channels",
     "questionsSection": "Do you have questions?",
     "Suscríbete": "Subscribe",
-    "copyright": "© Copyright 2025 - SmartSign | All rights reserved | Avenida La Molina 234"
+    "copyright": "© Copyright 2025 - GloveTalk | All rights reserved | Avenida La Molina 234"
   },
   "services": {
     "transGest": "Gesture Translation",
@@ -38,17 +38,17 @@
     "courses": "Learn Sign Language"
   },
   "testimonial1": {
-    "name": "Daniel Velarde",
+    "name": "Juan Velarde",
     "role": "Teacher of deaf-mute children",
     "quote": "\"As a teacher, this platform helped me train parents on how to effectively use sign language with their children.\""
   },
   "testimonial2": {
-    "name": "Susana Almeida",
+    "name": "Ana Almeida",
     "role": "Friend of a deaf-mute person",
-    "quote": "\"SmartSign helped me learn sign language more fluently so I could have a conversation with my friend.\""
+    "quote": "\"GloveTalk helped me learn sign language more fluently so I could have a conversation with my friend.\""
   },
   "testimonial3": {
-    "name": "Samuel De Luque",
+    "name": "Samuel Sanchez",
     "role": "Linguistics and Literature student",
     "quote": "\"This tool made it easier for me to learn sign language for an elective course I'm taking at university.\""
   },
@@ -70,7 +70,7 @@
     "title": "Contact Channels",
     "subtitle": "Support with the best team of associates",
     "email": "Email",
-    "emailContent": "support@smartsign.com",
+    "emailContent": "support@glovetalk.com",
     "phone": "Phone",
     "phoneContent": "+51 999 999 999",
     "location": "Location",

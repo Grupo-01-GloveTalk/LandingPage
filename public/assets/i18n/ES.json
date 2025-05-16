@@ -7,7 +7,7 @@
     "signUp": "Registrarse",
 
     "slogan": "Comunícate con gestos, con facilidad",
-    "description": "Con SmartSign, accede a una variedad de herramientas que te permitan traducir lenguaje de señas con facilidad.",
+    "description": "Con GloveTalk, accede a una variedad de herramientas que te permitan traducir lenguaje de señas con facilidad.",
 
     "learnMoreTitle": "Traduce lo que quieras, como quieras",
     "learnMoreDesc": "Podrás traducir tanto señas como lenguaje verbal, dependiendo de tu uso.",
@@ -17,10 +17,10 @@
     "imageGallery3": "Aprende más sobre el lenguaje de señas",
 
     "servicesCat": "Traduce y aprende",
-    "availableServices": "Estos son los servicios que puedes encontrar en SmartSign\n\n",
+    "availableServices": "Estos son los servicios que puedes encontrar en GloveTalk\n\n",
 
     "testimonialsTitle": "Nuestros Testimonios",
-    "testimonialSubtitle": "Lea lo que opinan nuestros clientes acerca de SmartSign",
+    "testimonialSubtitle": "Lea lo que opinan nuestros clientes acerca de GloveTalk",
 
     "plansTitle": "Tenemos los siguientes planes para ti",
 
@@ -28,7 +28,7 @@
     "faqDescription": "¿Tienes una duda? Contáctanos directamente llenando este formulario e intentaremos resolver tu duda lo antes posible.",
     "questionsSection": "¿Tienes preguntas?",
     "Suscríbete": "Suscríbete",
-    "copyright": "© Copyright 2025 - SmartSign | Todos los derechos reservados | Avenida La Molina 234"
+    "copyright": "© Copyright 2025 - GloveTalk | Todos los derechos reservados | Avenida La Molina 234"
   },
   "services": {
     "transGest": "Traducción de Gestos",
@@ -37,17 +37,17 @@
     "courses": "Aprende Lenguaje de Señas"
   },
   "testimonial1": {
-    "name": "Daniel Velarde",
+    "name": "Juan Velarde",
     "role": "Profesor de niños sordomudos",
     "quote": "\"Como profesor, esta plataforma me ayudó a capacitar a los padres de familia sobre cómo usar efectivamente el lenguaje de señas con sus hijos.\""
   },
   "testimonial2": {
-    "name": "Susana Almeida",
+    "name": "Ana Almeida",
     "role": "Amiga de persona sordomuda",
-    "quote": "\"SmartSign me ayudó a aprender con mayor fluidez el lenguaje de señas para poder entablar una conversación con mi amiga.\""
+    "quote": "\"GloveTalk me ayudó a aprender con mayor fluidez el lenguaje de señas para poder entablar una conversación con mi amiga.\""
   },
   "testimonial3": {
-    "name": "Samuel De Luque",
+    "name": "Samuel Sanchez",
     "role": "Estudiante de Lingüística y Literatura",
     "quote": "\"Con esta herramienta se me hizo más fácil aprender el lenguaje de señas para un curso electivo que estoy llevando en la universidad.\""
   },
@@ -69,7 +69,7 @@
     "title": "Canales de Contacto",
     "subtitle": "Soporte con ayuda de los mejores asesores",
     "email": "Correo Electrónico",
-    "emailContent": "support@smartsign.com",
+    "emailContent": "support@glovetalk.com",
     "phone": "Teléfono",
     "phoneContent": "+51 999 999 999",
     "location": "Ubicación",
